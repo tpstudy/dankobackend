@@ -1,0 +1,12 @@
+compatibility_date = "2024-11-01"
+main = "src/index.ts"
+name = "dankobackend"
+upload_source_maps = true
+
+[[d1_databases]]
+binding = "DB"
+database_id = "d4ddfda6-43df-4762-8bce-8bdcdb06295b"
+database_name = "dankobackend"
+
+[observability]
+enabled = true
